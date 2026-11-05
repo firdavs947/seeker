@@ -1,0 +1,76 @@
+{
+  "auth": {
+    "welcome_back": "Welcome\nback!",
+    "create_account_title": "Create\naccount",
+    "subtitle_sign_in": "Sign in to continue your journey",
+    "subtitle_sign_up": "Join us and start exploring the world",
+    "sign_in": "Sign In",
+    "sign_up": "Sign Up",
+    "username": "Username",
+    "email": "Email",
+    "password": "Password",
+    "confirm_password": "Confirm password",
+    "forgot_password": "Forgot password?",
+    "create_account": "Create Account",
+    "or_continue_with": "or continue with",
+    "have_account": "Already have an account? ",
+    "no_account": "Don't have an account? ",
+    "welcome": "Welcome!"
+  },
+  "validation": {
+    "min_3": "At least 3 characters",
+    "min_6": "At least 6 characters",
+    "email": "Enter a valid email",
+    "passwords_match": "Passwords do not match"
+  },
+  "errors": {
+    "generic": "Something went wrong. Please try again.",
+    "network": "Can't reach the server. Check your internet connection.",
+    "timeout": "Server took too long to respond",
+    "invalid_credentials": "Invalid email or password",
+    "already_taken": "Email or username is already taken"
+  },
+  "language": {
+    "title": "Language"
+  },
+  "profile": {
+    "title": "Profile",
+    "account": "Account",
+    "settings": "Settings",
+    "username": "Username",
+    "email": "Email",
+    "member_since": "Member since {date}",
+    "language": "Language",
+    "notifications": "Notifications",
+    "on": "On",
+    "off": "Off",
+    "copied": "Copied",
+    "log_out": "Log out",
+    "log_out_title": "Log out?",
+    "log_out_message": "You will need to sign in again to continue.",
+    "cancel": "Cancel",
+    "retry": "Retry",
+    "load_error": "Could not load your profile"
+  },
+  "saved": {
+    "title": "Saved",
+    "subtitle": "Places you loved",
+    "count": "{count} saved",
+    "empty_title": "Nothing saved yet",
+    "empty_message": "Tap the heart on any place to keep it here.",
+    "explore": "Explore places",
+    "removed": "Removed from saved",
+    "undo": "Undo",
+    "clear_all": "Clear all",
+    "clear_title": "Clear saved places?",
+    "clear_message": "All saved places will be removed from this device.",
+    "clear": "Clear"
+  },
+  "nav": {
+    "home": "Home",
+    "trips": "Trips",
+    "saved": "Saved",
+    "profile": "Profile",
+    "coming_soon": "coming soon"
+  }
+}

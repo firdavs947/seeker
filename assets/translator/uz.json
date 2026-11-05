@@ -1,0 +1,76 @@
+{
+  "auth": {
+    "welcome_back": "Xush\nkelibsiz!",
+    "create_account_title": "Hisob\nyarating",
+    "subtitle_sign_in": "Sayohatni davom ettirish uchun tizimga kiring",
+    "subtitle_sign_up": "Bizga qo‘shiling va dunyoni kashf eting",
+    "sign_in": "Kirish",
+    "sign_up": "Ro‘yxatdan o‘tish",
+    "username": "Foydalanuvchi nomi",
+    "email": "Email",
+    "password": "Parol",
+    "confirm_password": "Parolni tasdiqlang",
+    "forgot_password": "Parolni unutdingizmi?",
+    "create_account": "Hisob yaratish",
+    "or_continue_with": "yoki davom eting",
+    "have_account": "Hisobingiz bormi? ",
+    "no_account": "Hisobingiz yo‘qmi? ",
+    "welcome": "Xush kelibsiz!"
+  },
+  "validation": {
+    "min_3": "Kamida 3 ta belgi",
+    "min_6": "Kamida 6 ta belgi",
+    "email": "To‘g‘ri email kiriting",
+    "passwords_match": "Parollar mos kelmadi"
+  },
+  "errors": {
+    "generic": "Nimadir xato ketdi. Qayta urinib ko‘ring.",
+    "network": "Serverga ulanib bo‘lmadi. Internetni tekshiring.",
+    "timeout": "Server javob berishga uzoq vaqt oldi",
+    "invalid_credentials": "Email yoki parol noto‘g‘ri",
+    "already_taken": "Email yoki foydalanuvchi nomi band"
+  },
+  "language": {
+    "title": "Til"
+  },
+  "profile": {
+    "title": "Profil",
+    "account": "Hisob",
+    "settings": "Sozlamalar",
+    "username": "Foydalanuvchi nomi",
+    "email": "Email",
+    "member_since": "{date} dan beri biz bilan",
+    "language": "Til",
+    "notifications": "Bildirishnomalar",
+    "on": "Yoqilgan",
+    "off": "O‘chirilgan",
+    "copied": "Nusxalandi",
+    "log_out": "Chiqish",
+    "log_out_title": "Hisobdan chiqasizmi?",
+    "log_out_message": "Davom etish uchun qaytadan kirishingiz kerak bo‘ladi.",
+    "cancel": "Bekor qilish",
+    "retry": "Qayta urinish",
+    "load_error": "Profilni yuklab bo‘lmadi"
+  },
+  "saved": {
+    "title": "Saqlangan",
+    "subtitle": "Sizga yoqqan joylar",
+    "count": "Saqlangan: {count}",
+    "empty_title": "Hali hech narsa yo‘q",
+    "empty_message": "Joyni shu yerda saqlash uchun yurakcha belgisini bosing.",
+    "explore": "Joylarni ko‘rish",
+    "removed": "Saqlanganlardan o‘chirildi",
+    "undo": "Bekor qilish",
+    "clear_all": "Tozalash",
+    "clear_title": "Saqlanganlar tozalansinmi?",
+    "clear_message": "Barcha saqlangan joylar shu qurilmadan o‘chiriladi.",
+    "clear": "Tozalash"
+  },
+  "nav": {
+    "home": "Asosiy",
+    "trips": "Sayohatlar",
+    "saved": "Saqlangan",
+    "profile": "Profil",
+    "coming_soon": "tez orada"
+  }
+}
